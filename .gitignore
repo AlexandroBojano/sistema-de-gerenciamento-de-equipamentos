@@ -1,0 +1,30 @@
+# Dependências do Node.js
+node_modules/
+jspm_packages/
+
+# Arquivos de ambiente e sensíveis
+.env
+.env.local
+.env.*.local
+
+# Logs e arquivos de depuração
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editores e IDEs (como VS Code)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
